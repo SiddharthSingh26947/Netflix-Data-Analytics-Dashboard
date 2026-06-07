@@ -47,8 +47,7 @@ Developed an interactive dashboard to explore Netflix content based on genre, co
 ---
 
 ## 📸 Dashboard Preview
-
-
+https://github.com/SiddharthSingh26947/Netflix-Data-Analytics-Dashboard/blob/main/Netflix%20Dashboard%20Insights%20at%20a%20Glance.png
 
 ---
 
